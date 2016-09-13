@@ -1,10 +1,10 @@
 x# Starter Web Repo
 
 ## Introduction
-blablabla
+blablablabla
 
 ## Purpose
-bla bla bla
+bla bla
 
 ## Deployment
 
