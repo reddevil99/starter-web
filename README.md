@@ -1,8 +1,10 @@
-# Starter Web Repo
+x# Starter Web Repo
 
-## Second
+## Introduction
 
-## Three
+## Purpose
 
-## Four
+## Deployment
+
+## How To Contribute
 
