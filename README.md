@@ -4,6 +4,7 @@ x# Starter Web Repo
 blablabla
 
 ## Purpose
+bla bla bla
 
 ## Deployment
 
