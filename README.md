@@ -10,3 +10,6 @@ bla bla
 
 ## How To Contribute
 
+###Copyright
+
+
